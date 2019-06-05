@@ -1,4 +1,4 @@
-# JavaWebServer
+# Java Web Server
 This is a sample web server implementation using Java.
 Keys:
 * HTTP Protocol
